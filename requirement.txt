@@ -1,0 +1,4 @@
+Package Version
+------- -------
+numpy   2.3.4
+pip     25.2
