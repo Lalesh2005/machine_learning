@@ -1,3 +1,6 @@
+# Build a decision Tree Classifier from scratch in Python, Choose the features based on Infor-
+# mation Gain
+
 import numpy as np
 from collections import Counter
 
