@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "/Users/laleshkumar/Python_course/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "jupyter.jupyterServerType": "local",
+  "jupyter.askForKernelRestart": false,
+  "python.analysis.extraPaths": [
+    "/Users/laleshkumar/Python_course"
+  ]
+}
