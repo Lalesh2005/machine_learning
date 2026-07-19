@@ -68,4 +68,4 @@ st.write(f"Churn Probability: {churn_probability:.2f}")
 if prediction >= 0.5:
     churn_prediction = "Yes"
 else:
-    churn_prediction = "No"
+    churn_prediction = "No"    
